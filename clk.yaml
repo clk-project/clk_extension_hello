@@ -1,0 +1,10 @@
+alias:
+  hello:
+    commands:
+    - - say
+      - hello
+    documentation: null
+parameters:
+  hello:
+  - --who
+  - dragon
